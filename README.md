@@ -14,7 +14,7 @@
 ---
 
 ## Description
-Wine MS is recommendation system consists of large wine database with detail information along with recommendation engine for generating the most similar type according to your taste. Users are supposed to insert their preferences for wine taste and origin, which can be further modified with spider diagram for making more precise taste range. Engine will consider you choice and recommend you to most suitable wine, which you can buy in wine shops all around the Münster.
+Wine MS is system consists of large wine database with detail information. The recommendation engine is developed for generating the most similar type according to user taste. Users are supposed to insert their preferences for wine taste and origin, which can be further modified with spider diagram for making more precise taste range. Engine will consider you choice and refer user to the most suitable wine, which you can buy in wine shops all around the Münster (and other towns).
 
 ## Requirements
 
