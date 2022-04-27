@@ -121,4 +121,4 @@ python manage.py runserver
 ```
 
 ## Authorization
-All data was retrieved, gathered and processed within the project scope for educational purposes. Main data sources are vivino and Münster wine vendors. The system is developed for Data Integration module at Westfälische Wilhelms Universität, and deployed on local and virtual machines. 
+Documentation for entire project is available in repository as pdf file. All data was retrieved, gathered and processed within the project scope for educational purposes. The system is developed for Data Integration module at Westfälische Wilhelms Universität, and deployed on local and virtual machines. 
