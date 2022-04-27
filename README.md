@@ -22,7 +22,7 @@ NodeJS & React are required for running the API and User Interface.
 
 ## Modules
 
-Reference to scraping, importing to local database and matching retrieved data.
+Reference to scraping, importing to local database and matching retrieved data.Check the requirements files in order to start specific module of system.
 
 #### Scraping
 
