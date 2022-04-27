@@ -18,11 +18,11 @@ Wine MS is system consists of large wine database with detail information. The r
 
 ## Requirements
 
-NodeJS & React are required for running the API and User Interface.
+NodeJS & React are required for running the API and User Interface. Check the requirements files in order to start specific module of system.
 
 ## Modules
 
-Reference to scraping, importing to local database and matching retrieved data.Check the requirements files in order to start specific module of system.
+Reference to data scraping, importing to local database and matching retrieved data. 
 
 #### Scraping
 
